@@ -1,0 +1,18 @@
+--- AutoCarSimulation----
+
+----src --- source code 
+
+ --com.simulation
+   App.java - main class to be run 
+   Car.Java  - to create the Car obkect with initial user inputs
+   Field.java -  a 2D field objet 
+   Valdation.java -  user inpout validation 
+   Simulation.java - Car simulation calss 
+
+ --com.unitTest
+   CarTest.java - unit tests for Car 
+
+ 
+
+
+
